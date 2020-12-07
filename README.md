@@ -1,2 +1,2 @@
 # leetcode-learning
-im studying on
+I'm studying on LeetCode.
